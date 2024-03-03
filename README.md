@@ -1,4 +1,4 @@
 # Github-Demo
 This is my first git repository
 <br>
-Author - Khizarali Kazi
+Author - Khizarali Kazi(Rizvi college)
